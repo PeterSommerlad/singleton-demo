@@ -1,6 +1,6 @@
 
 
-#HOW NOT TO PROGRAM IN C++!!!!** Peter Sommerlad
+# HOW NOT TO PROGRAM IN C++!!!!** Peter Sommerlad
 
 **A logger in C++11, implemented as a singleton**
 
